@@ -1,3 +1,4 @@
+# Author = Wubin
 # sum.py
 ####################
 # sec 1
